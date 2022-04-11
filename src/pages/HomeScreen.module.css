@@ -1,0 +1,21 @@
+.breadcrumbs {
+  font-size: 12px;
+  text-overflow: ellipsis;
+  max-width: 80px;
+}
+
+.breadcrumbs:hover {
+  color: #1976d2;
+}
+
+.filterButton {
+  border: none;
+  padding: 10px;
+  margin: 10px;
+  background-color: #fff;
+}
+
+.filterButton:hover {
+  border-bottom: 1px solid #00a2ff;
+  color: #00a2ff;
+}
